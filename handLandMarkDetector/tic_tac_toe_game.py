@@ -100,6 +100,8 @@ def reset_game():
 
 def main():
     cap = cv2.VideoCapture(0)
+    cap.set(3, 1280) 
+    cap.set(4, 720)
     detector = handDetector()
     board, game_over, player_turn, is_tie = reset_game()
     step_x, step_y = 0, 0
