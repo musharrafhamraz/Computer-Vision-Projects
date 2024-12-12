@@ -1,0 +1,45 @@
+.SideBar {
+  padding: 1em;
+  text-align: center;
+  background-color: #1d1d41;
+  width: 305.63px;
+  /* height: 978px; */
+  font: 5em;
+  border-radius: 19px;
+}
+.Dashboard li {
+  list-style: none;
+  cursor: pointer;
+}
+Link {
+  list-style: none;
+}
+
+/* styles.css */
+
+.SideBar {
+  /* Your existing styles for SideBar */
+}
+
+.Dashboard {
+  text-align: center;
+}
+
+.Dashboard ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Dashboard ul li {
+  margin-bottom: 10px;
+}
+
+.Dashboard a {
+  text-decoration: none;
+  color: rgb(232, 228, 228); /* You can set the color you prefer */
+}
+
+.Dashboard a:hover {
+  color: pink;
+  text-decoration: none; /* Add underline on hover if desired */
+}

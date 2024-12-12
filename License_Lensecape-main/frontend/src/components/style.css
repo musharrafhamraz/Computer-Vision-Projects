@@ -1,0 +1,29 @@
+.Compo {
+  display: grid;
+  row-gap: 2%;
+  column-gap: 2%;
+  /* border: 15px solid red; */
+  flex-wrap: wrap;
+  border-radius: 9.55px;
+  margin: 1%;
+}
+.Compo-section-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 2%;
+  margin-bottom: 1%;
+}
+.Activ-Analy {
+  width: 50px;
+  display: grid;
+  flex-wrap: wrap;
+  gap: 2%;
+  /* grid-column-start: 4; */
+  /* grid-column-end: 3; */
+}
+.vid-Analy {
+  display: grid;
+  gap: 1%;
+  flex-wrap: wrap;
+}

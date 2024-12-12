@@ -1,0 +1,24 @@
+.Activity {
+  /* width: 357.2px; */
+  /* height: 413.55px; */
+  border-radius: 19.1px;
+  background-color: #1d1d41;
+}
+.Activity-top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.DropdownMenu {
+  /* width: 81.74px; */
+  height: 29.43px;
+  border-radius: 10.9px;
+  border: 1.09px;
+  color: #aeabd8;
+  background-color: transparent;
+  border: 0.5px solid #8c89b480;
+  font-family: Inter;
+  font-size: 0.81738rem;
+  font-style: normal;
+  font-weight: 400;
+}

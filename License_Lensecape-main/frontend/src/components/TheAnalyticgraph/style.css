@@ -1,0 +1,16 @@
+.TheAnalGraph {
+  width: 39.8745rem;
+  /* height: 28.8025rem; */
+  flex-shrink: 0;
+  border-radius: 1.19388rem;
+  background: #1d1d41;
+}
+.Top-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.TopMiddleSection {
+  display: flex;
+  align-items: center;
+}

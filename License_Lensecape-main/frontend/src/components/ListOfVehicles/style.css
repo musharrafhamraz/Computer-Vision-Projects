@@ -1,0 +1,46 @@
+.ListOfVechile {
+  height: 100%;
+  width: 100%;
+  flex-shrink: 0;
+  border-radius: 1.19388rem;
+  background: #1d1d41;
+}
+.Nav-List {
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  justify-content: space-around;
+  align-items: center;
+}
+.Nav-List input {
+  width: 12.35631rem;
+  height: 2.26831rem;
+  flex-shrink: 0;
+  border-radius: 0.5175rem;
+  background: #27264e;
+  border: none;
+}
+.Downloadbtn {
+  display: inline-flex;
+  padding: 0.5rem 0.625rem;
+  align-items: center;
+  gap: 0.625rem;
+  border-radius: 0.375rem;
+  background: #6359e9;
+  cursor: pointer;
+}
+.ListVech tr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/* data Picker css */
+.DataPicker {
+  color: aliceblue;
+  font-size: 2em;
+}
+/* List of Vichle */
+.Table {
+  flex-wrap: wrap;
+  min-width: 100%;
+}

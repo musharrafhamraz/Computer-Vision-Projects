@@ -1,0 +1,21 @@
+.VideoStrem {
+  padding: 1em;
+  background-color: #1d1d41;
+  /* width: 635px; */
+  /* height: 270px; */
+  top: 97px;
+  left: 330px;
+  border-radius: 19.1px;
+}
+.VideoTop {
+  display: flex;
+  justify-content: space-between;
+}
+.Videos {
+  display: flex;
+  justify-content: space-between;
+  gap: 2% 2%;
+}
+.Videos video {
+  border-radius: 9.55078125px;
+}

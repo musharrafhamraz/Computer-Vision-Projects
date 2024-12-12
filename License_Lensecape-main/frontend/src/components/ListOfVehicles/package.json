@@ -1,0 +1,62 @@
+{
+  "name": "my-react-table-app",
+  "version": "1.0.0",
+  "tableData": [
+    {
+      "plateNo": "ABC123",
+      "modelType": "Sedan",
+      "logType": "Entry",
+      "date": "2023-11-10",
+      "status": "Active"
+    },
+    {
+      "plateNo": "XYZ789",
+      "modelType": "SUV",
+      "logType": "Exit",
+      "date": "2023-11-10",
+      "status": "Inactive"
+    },
+    {
+      "plateNo": "DEF456",
+      "modelType": "Hatchback",
+      "logType": "Entry",
+      "date": "2023-11-11",
+      "status": "Active"
+    },
+    {
+      "plateNo": "GHI789",
+      "modelType": "Truck",
+      "logType": "Exit",
+      "date": "2023-11-11",
+      "status": "Inactive"
+    },
+    {
+      "plateNo": "JKL012",
+      "modelType": "Convertible",
+      "logType": "Entry",
+      "date": "2023-11-25",
+      "status": "Active"
+    },
+    {
+      "plateNo": "MNO345",
+      "modelType": "Van",
+      "logType": "Exit",
+      "date": "2023-11-26",
+      "status": "Inactive"
+    },
+    {
+      "plateNo": "PQR678",
+      "modelType": "Coupe",
+      "logType": "Entry",
+      "date": "2023-11-27",
+      "status": "Active"
+    },
+    {
+      "plateNo": "STU901",
+      "modelType": "Electric",
+      "logType": "Exit",
+      "date": "2023-12-05",
+      "status": "Inactive"
+    }
+  ]
+}

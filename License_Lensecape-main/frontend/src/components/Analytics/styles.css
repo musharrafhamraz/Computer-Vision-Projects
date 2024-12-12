@@ -1,0 +1,20 @@
+.Analytics {
+  /* padding: 0.3em; */
+  /* width: 357.2px; */
+  /* height: 413.55px;/ */
+  flex-shrink: 0;
+  border-radius: 1.19388rem;
+  background: #1d1d41;
+}
+.Analytics h2 {
+  margin-left: 1em;
+  color: #fff;
+  font-family: Inter;
+  font-size: 1.43263rem;
+  font-weight: 400;
+}
+.Analyatics-data {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

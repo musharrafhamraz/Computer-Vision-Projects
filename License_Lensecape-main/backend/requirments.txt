@@ -1,0 +1,9 @@
+datetime
+openpyxl
+flask
+supervision
+opencv-python
+numpy
+argparse
+ultralytics
+azure-cognitiveservices-vision-computervision==0.7.0
