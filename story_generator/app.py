@@ -37,7 +37,7 @@ class LLMInferenceNode:
             input_text = f"The following objects were detected: {', '.join(object_names)}."
 
             # Create the prompt
-            prompt = f"Write an imaginative story involving the following objects: {', '.join(object_names)}."
+            prompt = f"Write an imaginative story involving the following objects: {', '.join(object_names)}. The story should be engaging, creative, and well-structured of around 500 words. the story should not be fictional."
 
             # Use the Groq client to generate the response
             messages = [
