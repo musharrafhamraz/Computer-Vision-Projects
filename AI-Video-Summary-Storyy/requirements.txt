@@ -1,0 +1,5 @@
+gradio
+phidata
+google-generativeai
+groq-client
+python-dotenv
